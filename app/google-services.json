@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "116374239058",
+    "firebase_url": "https://myapp-21f4c.firebaseio.com",
+    "project_id": "myapp-21f4c",
+    "storage_bucket": "myapp-21f4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116374239058:android:3a8a182e14f48be376ec8b",
+        "android_client_info": {
+          "package_name": "tabian.com.instagramclone2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116374239058-6qmcjbuv7dihbr44ijam668g5ctrjgl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tabian.com.instagramclone2",
+            "certificate_hash": "2107394c477cc7d7af348ea29fa6ae91dc95deba"
+          }
+        },
+        {
+          "client_id": "116374239058-g9s5gdhcrk2eibpt44ba00k98bfgsrbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAHJnSjbNZ_M8HZf9oCGV-t4sgLwufMi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116374239058-g9s5gdhcrk2eibpt44ba00k98bfgsrbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
